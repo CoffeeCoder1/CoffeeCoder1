@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on manufacturing/mass producing products
 - 📫 You can send me an E-Mail at the email address listed on my GitHub profile, or send me a Matrix message to my Matrix account, which can be found on [my website](https://coffeecoder1.github.io/).
 
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-CoffeeCoder1-%23ff5a5f?style=flat-square&logo=Ko-Fi)](https://ko-fi.com/coffeecoder1)
+
 [Indentation Guide](https://coffeecoder1.github.io/indentation)
 
 <!---
